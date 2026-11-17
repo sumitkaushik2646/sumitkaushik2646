@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Sumit Kaushik! 🚀
 
-<!--
-**sumitkaushik2646/sumitkaushik2646** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Full-Stack Developer and the Founder of [Good Writes](https://goodwritesofficial.com). I specialize in building scalable web platforms, automation workflows, and high-tech Python desktop assistants.
 
-Here are some ideas to get you started:
+## 🛠️ My Tech Stack
+* **Frontend:** HTML5, CSS3, Tailwind CSS, JavaScript
+* **Backend:** Node.js, Express.js, Java Spring Boot
+* **Database & Cloud:** Firebase Firestore, Firebase Authentication
+* **Automation & AI:** Python 3.13, PyAutoGUI, psutil, Eel, SpeechRecognition
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm currently working on
+* 💻 Architecting the **Super Admin God Mode Dashboard** for Good Writes.
+* 🤖 Developing **S.U.M.I.T A.G.I.** - A cinematic Windows virtual assistant (Jarvis-inspired).
+* 🏫 Designing system architecture for a comprehensive **School ERP Platform**.
+
+Let's build something awesome!
